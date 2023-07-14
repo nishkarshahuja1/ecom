@@ -79,22 +79,6 @@ You can run this project by using this command
 flutter run
 ```
 
-
-## About the Author
-
-MarketKy is Developed by [mrezkys](https://www.facebook.com/mrezkys12)
-The User Interface are designed by [mrezkys](https://dribbble.com/mrezkys)
-
-## Thanks To
-Iconly, icons that i used on this project, created by [Piqo Design](https://www.figma.com/@piqodesign) also images from adidas, nike, zara and pexels.
-
-## License
-MarketKy is under MIT License.
-
-## Donate
-You can support me at [trakteer](https://trakteer.id/mrezkys) <br>
-<a href="https://trakteer.id/mrezkys" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="45" style="border: 0px; height: 45px;" alt="Trakteer Saya"></a>
-
 ## Announcement
 
 Now MarketKy already relased v1.0.0
